@@ -27,9 +27,6 @@ BuscaFIPE/
 ├── pom.xml
 └── README.md
 
-yaml
-Copiar código
-
 ---
 
 ## 🚀 Funcionalidades
